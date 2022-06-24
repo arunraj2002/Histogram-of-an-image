@@ -75,6 +75,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
+<br>
+<br>
+
 ## Output:
 ### Input Grayscale Image and Color Image
 <img src="https://user-images.githubusercontent.com/75235747/165152059-4d28bbb6-ebd3-474a-91d4-64cdd0097dc8.png" width="600">
