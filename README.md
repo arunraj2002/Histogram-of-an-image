@@ -75,6 +75,9 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## Output:
 ### Input Grayscale Image and Color Image
