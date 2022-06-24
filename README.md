@@ -20,6 +20,12 @@ cv2.equalize() is used to transform the gray image to equalized form.
 
 ### Step5:
 The Histogram of gray scale image and color image is shown.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Program:
 ```python
