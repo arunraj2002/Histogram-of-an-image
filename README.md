@@ -84,7 +84,7 @@ cv2.destroyAllWindows()
 ### Histogram of Grayscale Image and any channel of Color Image
 ![histo](https://user-images.githubusercontent.com/75235747/165152152-6069bdfb-1b7d-453e-a014-b29dc6056f66.JPG)
 <br>
-![histogram](https://user-images.githubusercontent.com/75235747/165152172-c4211e6d-57f6-492b-8931-782ebd695db1.png)
+![gram](https://user-images.githubusercontent.com/75235747/175557503-1113f81b-63cc-481a-bf36-7734ad4c4027.JPG)
 
 ### Histogram Equalization of Grayscale Image
 <img src="https://user-images.githubusercontent.com/75235747/165152256-144540c9-6279-4b3d-9c47-ba177f3186a1.png" width="600">
