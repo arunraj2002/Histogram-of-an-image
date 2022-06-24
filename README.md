@@ -8,23 +8,18 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
 Read the gray and color image using imread().
-<br>
 
 ### Step2:
 Print the image using imshow().
-<br>
 
 ### Step3:
 Use calcHist() function to mark the image in graph frequency for gray and color image
-<br>
 
 ### Step4:
 cv2.equalize() is used to transform the gray image to equalized form.
-<br>
 
 ### Step5:
 The Histogram of gray scale image and color image is shown.
-<br>
 
 ## Program:
 ```python
@@ -76,19 +71,15 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![Screenshot (419)](https://user-images.githubusercontent.com/75235747/165152059-4d28bbb6-ebd3-474a-91d4-64cdd0097dc8.png)
-<br>
+<img src="https://user-images.githubusercontent.com/75235747/165152059-4d28bbb6-ebd3-474a-91d4-64cdd0097dc8.png" width="600">
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![histo](https://user-images.githubusercontent.com/75235747/165152152-6069bdfb-1b7d-453e-a014-b29dc6056f66.JPG)
 <br>
 ![histogram](https://user-images.githubusercontent.com/75235747/165152172-c4211e6d-57f6-492b-8931-782ebd695db1.png)
-<br>
 
 ### Histogram Equalization of Grayscale Image
-![Screenshot (429)](https://user-images.githubusercontent.com/75235747/165152256-144540c9-6279-4b3d-9c47-ba177f3186a1.png)
-
-<br>
+<img src="https://user-images.githubusercontent.com/75235747/165152256-144540c9-6279-4b3d-9c47-ba177f3186a1.png" width="600">
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
